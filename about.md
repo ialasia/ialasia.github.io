@@ -33,9 +33,9 @@ Zihao earned his LL.M. in Animal Law at Lewis & Clark Law School and LL.M. in En
 
 "I would like to build a connection on animal law studies between China and the world, to bring the knowledge of animal law to China and to tell Chinese stories."
 
-# Contact Us ## <ialasia@outlook.com>
+# Contact Us  [ialasia@outlook.com](url)
 
-# Global Site ## <www.ialasia.org>
+# Global Site [www.ialasia.org](url)
 
-# Chinese Site ## <cn.ialasia.org>
+# Chinese Site [cn.ialasia.org](url)
 
