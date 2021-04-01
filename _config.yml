@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Institute of Animal Law of Asia"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   IALA Chinese Page
 
-email: a-mail@mail.mail
+email: ialasia@outlook.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
