@@ -6,7 +6,7 @@ permalink: /about/
 
 # Who We Are
 
-Institute of Animal Law of Asia (IALA) is a U.S based organization founded by the alumni of the Center for Animal Law Studies (CALS), Lewis & Clark Law School.
+[Institute of Animal Law of Asia (IALA)](url=<http://ialasia.org>) is a U.S based organization founded by the alumni of the Center for Animal Law Studies (CALS), Lewis & Clark Law School.
 
 Institute of Animal Law of Asia (IALA) is an educational research center and is dedicated to offering news, articles, and comprehensive and up-to-date information on the issues of animal law and policy all over Asia and the world, aiming at raising awareness in more individuals and communities about the threats that animals face every day.
 
@@ -18,6 +18,7 @@ Our goal is to educate people through law and policy.
 # Our Team
 
 ## Lu Shegay
+
 ### Managing Director
 ### Email: lushegay.iala@gmail.com
 
@@ -26,6 +27,7 @@ Lu is an attorney from Kazakhstan and has earned her LL.B degree at KIMEP Univer
 Apart from animal law, Lu’s interests include literature about war, writing, and international criminal law.
 
 ## Zihao Yu
+
 ### Executive Director
 ### Email: zihaoyu.iala@gmail.com
 
